@@ -338,7 +338,7 @@ async function main() {
     const margin = Math.max(screen.width - 80, 0);
     let art = "";
     if (screen.width >= threshold) {
-      art = cfonts.render('YetiDAO', {
+      art = cfonts.render('ZONA AIRDROP', {
         font: 'block',
         align: 'center',
         colors: ['cyan', 'magenta'],
@@ -349,7 +349,7 @@ async function main() {
         maxLength: screen.width - margin,
       }).string;
     } else {
-      art = cfonts.render('YetiDAO', {
+      art = cfonts.render('ZONA AIRDROP', {
         font: 'tiny',
         align: 'center',
         colors: ['cyan', 'magenta'],
@@ -373,7 +373,7 @@ async function main() {
     tags: false,
     align: 'center',
   });
-  channelPane2.setContent('✪ Unich Miner Automation Bot ✪');
+  channelPane2.setContent('✪ Unich Bot Mining ✪');
   screen.append(channelPane2);
 
   const infoPane = blessed.box({
