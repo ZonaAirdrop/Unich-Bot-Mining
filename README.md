@@ -27,3 +27,8 @@ http://username:password@host:port
 ````
 npm start
 ````
+- Tutorial Get Token
+[![IMG-20250612-161220.jpg](https://i.postimg.cc/kXkNZQDT/IMG-20250612-161220.jpg)](https://postimg.cc/6yfG4GrZ)
+
+- Bonus join Chanel (Optional)
+- https://t.me/ZonaAirdr0p
