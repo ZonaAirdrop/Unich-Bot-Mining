@@ -17,7 +17,7 @@ nano token.txt
 ````
 - Add proky (Optional)
 ````
-http://username:password@host
+nano proxy.txt
 ````
 - Add your proxy in this format
 ````
